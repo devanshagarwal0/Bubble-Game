@@ -1,6 +1,6 @@
 bubble game
 
-rule:
+rules:
 -> you will have 60 second.
 -> you have to click on the bubble which is having same number as hit.
 -> if you have selected correct bubble you will get 10 point.
